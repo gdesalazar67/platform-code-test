@@ -234,5 +234,6 @@ describe '#update_quality' do
         specify { expect(awards[1].expires_in).to eq(2) }
       end
     end 
-  end
+  end  
 end
+
